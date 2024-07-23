@@ -17,7 +17,7 @@
         "label1": "2023",
         "title": "Intern computer technologist",
         "company": "Elementary school",
-        "description": "Led a team of aspiring developers to successfully develop a student record management system for teachers in a local elementary school. Collaborated closely with an experienced IT instructor to supervise and guide the development process, ensuring alignment with project's coding practices.",
+        "description": "Led a proficient team of aspiring developrs to successfully develop a student record management system for an IT instructor at a local elementary school.",
         "tags": ["Bootstrap", "Javascript", "PHP", "MySQL"]
       }
     ]
@@ -54,24 +54,8 @@
     ]
   },
   {
-    "section": "education",
-    "result": [
-      {
-        "id": 1,
-        "label1": "2019",
-        "label2": "2023",
-        "title": "Bachelor of Engineering Technology in Computer Engineering Technology",
-        "company": "Technological University of the Philippines - Cavite",
-        "url": "https://www.tupcavite.edu.ph/",
-        "description": "Part of a small team of developers, I built dynamic web components for user experience. Collaborated closely with a team of experienced reviewers to mentor and guide a new team member effectively.",
-        "image_url": "tupc.jpg",
-      }
-    ]
-  },
-  {
     "section": "socials",
-    "result":
-    [
+    "result": [
       {
         "id": 1,
         "label1": "Github",
