@@ -54,7 +54,7 @@
     ]
   },
   {
-    "section": "Education",
+    "section": "education",
     "result": [
       {
         "id": 1,
@@ -66,7 +66,7 @@
         "description": "Part of a small team of developers, I built dynamic web components for user experience. Collaborated closely with a team of experienced reviewers to mentor and guide a new team member effectively.",
         "image_url": "tupc.jpg",
       },
-    ]
+    ],
   },
   {
     "section": "socials",
