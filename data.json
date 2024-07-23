@@ -70,7 +70,8 @@
   },
   {
     "section": "socials",
-    "result": [
+    "result":
+    [
       {
         "id": 1,
         "label1": "Github",
