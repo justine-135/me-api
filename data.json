@@ -54,6 +54,21 @@
     ]
   },
   {
+    "section": "education",
+    "result": [
+      {
+        "id": 1,
+        "label1": "2019",
+        "label2": "2023",
+        "title": "Bachelor of Engineering Technology in Computer Engineering Technology",
+        "company": "Technological University of the Philippines - Cavite",
+        "url": "https://www.tupcavite.edu.ph/",
+        "description": "Part of a small team of developers, I built dynamic web components for user experience. Collaborated closely with a team of experienced reviewers to mentor and guide a new team member effectively.",
+        "image_url": "tupc.jpg"
+      }
+    ]
+  },
+  {
     "section": "socials",
     "result": [
       {
