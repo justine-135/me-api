@@ -31,7 +31,7 @@
         "label2": "Paused",
         "title": "Project Management System",
         "description": "Manage tasks.. Paused.",
-        "tags": ["React/NextJS", "Typescript", "TailwindCSS", "ShadCN UI", "NextAuth"],
+        "tags": ["React/NextJS", "Typescript", "NextAuth", "Vercel/Postgres"],
         "url": "https://github.com/justine-135/nextjs-sprint-project"
       },
       {
