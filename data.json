@@ -26,7 +26,16 @@
     "section": "projects",
     "result": [
       {
-        "id": 1,
+        "id": 4,
+        "label1": "2024",
+        "label2": "Paused",
+        "title": "Project Management System",
+        "description": "Manage tasks.. Paused.",
+        "tags": ["React/NextJS", "Typescript", "TailwindCSS", "ShadCN UI", "NextAuth"],
+        "url": "https://github.com/justine-135/nextjs-sprint-project"
+      },
+      {
+        "id": 3,
         "label1": "2023",
         "title": "Student Record System",
         "description": "Platform designed to securely store, manage, and organize student-related information and data, including academic records, grades, and personal details.",
@@ -43,7 +52,7 @@
         "url": "https://github.com/justine-135/cpet17-finals"
       },
       {
-        "id": 3,
+        "id": 1,
         "label1": "2022",
         "title": "Restaurant Ordering System",
         "description": "With its user-friendly interface and efficient order management, the samgyupsal ordering system web app enhances customer satisfaction and helps restaurant owners optimize their operations for a smoother and more delightful dining experience.",
