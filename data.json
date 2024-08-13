@@ -85,6 +85,12 @@
         "label1": "Github",
         "url": "https://github.com/justine-135",
         "title": "justine-135"
+      },
+      {
+        "id": 2,
+        "label1": "Gmail",
+        "url": "mailto:justineupano87@gmail.com",
+        "title": "@justineupano87"
       }
     ]
   },
